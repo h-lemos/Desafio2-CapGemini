@@ -34,6 +34,8 @@ As entradas "vtotal" calcularia o total de visualizações, "maxclick" veria o t
 
 Clicando duas vezes em uma das entradas na tabela ele carregaria os valores das entradas nos campos de texto do JForm.
 
+Em src se pode encontrar o Main.java, contendo o form, o DAO com o conector sql, e o .sql com as informações da database.
+
 Como não conhecia nada de Java e nem de SQL ou de databases fiquei sem tempo para concluir o desafio. Ainda assim, tentei fazer o meu melhor.
 
 À todos que também empreitaram essa jornada, desejo-os o melhor.
